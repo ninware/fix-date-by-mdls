@@ -1,2 +1,2 @@
 # PhotosCreationTimeCorrection
-Changes "Create Date" of Images setting the Item Content Creation Date
+Changes "create" date of files by item content creation date.
